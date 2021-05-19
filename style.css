@@ -1,0 +1,76 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}div
+{
+    padding-top: 45px;
+}
+.heading
+{
+    background-color: yellow;
+    font-size: 2.5rem;
+    padding: 15px;
+}
+td
+{
+    width: 5vw;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 0.7rem;
+    
+    
+}
+td span
+{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.noborder
+{
+    border: none;
+}
+
+.bg-yellow
+{
+    background-color: #fafb07;
+}
+
+.bg-blue
+{
+    background-color:#30cdff;
+}
+
+.bg-peach
+{
+    background-color: #ffca97;
+}
+
+.bg-green
+{
+    background-color: #65ff68;
+}
+
+.bg-dpink
+{
+    background-color: #ff9799;
+}
+.bg-lpink
+{
+    background-color: #ffcccb;
+}
+.bg-purple
+{
+    background-color:#fe97ff;
+}
+
+.bg-lblue
+{
+    background-color: #99ffcd;
+}
+
+.bg-orange
+{
+    background-color: #ff7d47;
+}
